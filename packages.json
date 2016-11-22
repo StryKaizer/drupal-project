@@ -1,0 +1,15 @@
+{
+  "packages": {
+    "StryKaizer/drupal-project": {
+      "dev-master": {
+        "name": "StryKaizer/drupal-project",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/StryKaizer/drupal-project.git",
+          "type": "git",
+          "reference": "8.x"
+        }
+      }
+    }
+  }
+}
